@@ -1,4 +1,4 @@
-# [INTERACTIVE GLITCHES](https://abimunoz.github.io/drawing-with-text/)
+# [INTERACTIVE GLITCHES](https://abimunoz.github.io/hide-and-reveal/)
 HTML | CSS
 
 Exploring user interaction and experimenting with CSS hover
